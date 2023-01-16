@@ -26,7 +26,9 @@
 ---
 
 ### :man_technologist: **About me**:</br>
-- 
+- 🌱 I’m currently learning **Python:snake:, Django**
+- :collision:I practice my skills **regularly**:technologist:
+- 🌍 I speak English
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -37,8 +39,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg"title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="40" height="40"/>
 </div>
 
 ---
 ### :fire:My statistics:fire:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UlasevichNazar&theme=java-dark&hide_border=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&border_radius=10)](https://git.io/streak-stats)
+<div id="stat" align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UlasevichNazar&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UlasevichNazar&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UlasevichNazar&theme=github_dark"/>
+</div>
+
