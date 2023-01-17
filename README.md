@@ -1,6 +1,6 @@
 <div id="header" align="center">
 	<h1>Hi there, I'm Nazar</h1>
-	<h3>I am a Junior Pyhton Developer <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60"> from Belarus.</h3>
+	<h3>I am a Junior Python Developer <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60"> from Belarus.</h3>
   
 ---
 
